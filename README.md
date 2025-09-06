@@ -1,4 +1,4 @@
-A furry student who wants to be a 2D/3D artist, web developer, and data scientist.
+A furry who wants to be a 2D/3D artist, web developer, and data scientist.
 
 #### Language and Tools
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,threejs,nodejs,php,laravel,supabase,postgres,mysql,cpp,cs,python,blender,figma&size=30)
